@@ -1,2 +1,2 @@
-# ArcoLinux Wallpapers LXQt Dual Monitor
+# ArcoLinux Wallpapers Dual Monitor
 
